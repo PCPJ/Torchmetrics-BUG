@@ -1,0 +1,5 @@
+  metrics: ["IOU", "F1"]
+  IOU:
+    num_classes: 5
+  F1:
+    num_classes: 5
